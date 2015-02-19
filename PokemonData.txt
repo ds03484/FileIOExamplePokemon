@@ -1,0 +1,4 @@
+Ash 8 6
+Gary 8 5
+Daruku 7 4
+Misty 8 6
